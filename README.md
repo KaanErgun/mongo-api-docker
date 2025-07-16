@@ -1,5 +1,3 @@
-"""
-"""markdown
 # Mongo API Docker Compose
 
 This project runs the following services together using Docker Compose:
@@ -133,4 +131,3 @@ Feel free to reach out or contribute via GitHub @KaanErgun.
 ## License
 
 MIT License
-"""
